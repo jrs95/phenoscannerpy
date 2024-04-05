@@ -1,4 +1,4 @@
-# phenoscannerpy <img src="man/figures/logo.png" align="right" height="139"/>
+# phenoscannerpy <img src="logo.png" align="right" height="139"/>
 Python 3 tool to query the PhenoScanner database of genotype-phenotype associations from a unix terminal.  
 
 ## Installation
