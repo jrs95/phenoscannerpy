@@ -1,5 +1,5 @@
 # phenoscannerpy <img src="logo.png" align="right" height="139"/>
-Python 3 tool to query the PhenoScanner database of genotype-phenotype associations from a unix terminal.  
+Python 3 tool to query the PhenoScanner database of human genotype-phenotype associations from a terminal.  
 
 ## Installation
 * Download the [phenoscanner.py](https://raw.githubusercontent.com/phenoscanner/phenoscannerpy/master/phenoscanner.py) file.  
