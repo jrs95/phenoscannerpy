@@ -1,5 +1,5 @@
 # phenoscannerpy <img src="logo.png" align="right" height="139"/>
-Phenoscanner is no longer maintained.  
+**The PhenoScanner database is no longer maintained.**  
 
 ## Introduction
 Python 3 tool to query the PhenoScanner database of human genotype-phenotype associations from a terminal.  
